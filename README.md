@@ -11,7 +11,8 @@
 - Data analytics and visualisations on extracted dataset using seaborn plots
 - Sentiment analysis on product reviews using textblob
 - Word embeddings generation from reviews using Universal sentence encoder(transformer)
-- Regression modelling with Rnadom forest, Xgboost, Lasso regressor models
+- Regression modelling with Random forest, Xgboost, Lasso regressor models
+- Comparing performance improvements of models as more information is made available to the ML model.
 - Interpretation and comparison of models using PDP plots, Q-Q and histogram plots of residuals
 
 ## Conclusion:
