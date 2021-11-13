@@ -4,7 +4,7 @@
 -If any pdt is purchased on the client website, it receives a rating and reviews based on its taste, price, etc.
 -Based on these factors, the product may or may not be recommended further.
 -But sometimes, the recommendation details about a product are missing on the webpage. It is difficult for the customer to categorize it as a good or a bad product just based on ratings and reviews. 
-- So, the main problem is to investigate the possible reason for the missing recommendation details and find a way to predict the recommendation details for such products.
+-So, the main problem is to investigate the possible reason for the missing recommendation details and find a way to predict the recommendation details for such products.
 
 ## Techniques involved:
 - Web extraction using selenium
